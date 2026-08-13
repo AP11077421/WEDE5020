@@ -6,7 +6,7 @@ FORMEZ, a South African fashion and clothing retailer founded in 2019.
 The website showcases FORMEZ's brand identity, product range, and
 customer engagement channels.
 # Website GOALS and Objectives
-- Promote FORMEZ's brand identity and product range.
+- Promote FORMEZ's brand identity and product range. 
 - Provide an easy-to-navigate, informative and engaging user experience.
 - Drive customer engagement through enquiries and contact channels.
 - Support FORMEZ's goals around sustainability and innovation.
